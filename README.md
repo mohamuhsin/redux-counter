@@ -14,3 +14,5 @@
 ### 4. Using Redux Data in React Components:
 > 
 
+### 5. Dispatching Actions from Inside Components:
+> 
