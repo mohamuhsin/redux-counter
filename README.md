@@ -1,4 +1,5 @@
-# Reduc Counter:
+# ReduX Counter:
+> Project demonstrating how we can use redux in a react project.
 
 ## How We Built It:
 ### 1. Install Redux and React Redux into our project:
