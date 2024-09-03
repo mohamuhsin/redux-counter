@@ -16,3 +16,6 @@
 
 ### 5. Dispatching Actions from Inside Components:
 > 
+
+### 5. Attaching Payloads to Actions:
+> 
