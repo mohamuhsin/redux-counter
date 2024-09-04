@@ -29,4 +29,7 @@
 >
 
 ### 10. Getting Started with Redux ToolKit and Adding State Slices:
+>
+
+### 12. Connecting Redux ToolKit State:
 > 
