@@ -17,5 +17,13 @@
 ### 5. Dispatching Actions from Inside Components:
 > 
 
-### 5. Attaching Payloads to Actions:
+### 6. Attaching Payloads to Actions:
+
+### 7. Working With Multiple State Properties:
+>
+
+### 8. How To Work Redux State Correctly:
+>
+
+### 9. Redux Challenges and Introducing redux Toolkit:
 > 
