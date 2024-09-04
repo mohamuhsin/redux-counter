@@ -26,4 +26,7 @@
 >
 
 ### 9. Redux Challenges and Introducing redux Toolkit:
+>
+
+### 10. Getting Started with Redux ToolKit and Adding State Slices:
 > 
