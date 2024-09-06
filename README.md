@@ -32,4 +32,13 @@
 >
 
 ### 12. Connecting Redux ToolKit State:
+>
+
+### 13. Working with multiple Slices:
+>
+
+### 14. Dispatching actions from new slice:
+>
+
+### 15. Splitted our code and summary:
 > 
